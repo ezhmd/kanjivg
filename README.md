@@ -1,6 +1,6 @@
 # KanjiVG
 
-This is a for KanjiVG project by Ulrich Apel and cotributors.
+This is a fork of KanjiVG project by Ulrich Apel and cotributors.
 
 ## Original Readme
 
