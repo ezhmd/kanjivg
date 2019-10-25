@@ -1,0 +1,20 @@
+{
+  "name": "@ezhmd/kanjivg",
+  "version": "0.1.0",
+  "description": "This is the KanjiVG source repository. It is rather raw, so you probably want to process it before using it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ezhmd@github.com/ezhmd/kanjivg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ezhmd/kanjivg/issues"
+  },
+  "homepage": "https://github.com/ezhmd/kanjivg#readme",
+  "private": true
+}
