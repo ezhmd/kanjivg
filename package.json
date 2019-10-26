@@ -4,7 +4,7 @@
   "description": "This is the KanjiVG source repository. It is rather raw, so you probably want to process it before using it.",
   "main": "index.js",
   "scripts": {
-    "extract-json": "node ./scripts/index.js",
+    "extract-json": "node ./scripts/extract-json.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
